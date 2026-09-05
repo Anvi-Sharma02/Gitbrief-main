@@ -58,8 +58,8 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 ## 👩‍💻 Maintained by
 
-**Annanya Tiwary**  
-[GitHub Profile](https://github.com/Annanyatiwary4)
+**Anvi Sharma**  
+[GitHub Profile](https://github.com/Anvi-Sharma02)
 
 ---
 
@@ -67,7 +67,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 If you found this project helpful, inspiring, or cool:
 
-- Give it a ⭐️ on [GitHub](https://github.com/Annanyatiwary4/gitbrief.git)
+- Give it a ⭐️ on (https://github.com/Anvi-Sharma02/Gitbrief-main)
 - Share it with your friends and fellow developers!
 - Contribute ideas, raise issues, or submit pull requests
 
